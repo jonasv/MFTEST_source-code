@@ -1,1 +1,4 @@
-# MFTEST_source-code
+    terraform init
+    terraform apply
+    # have a nice day
+
