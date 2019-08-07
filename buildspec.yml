@@ -8,5 +8,10 @@ phases:
   build:
     commands:
       - echo test 1 2 3
+      - pwd
+      - uname -a
+      - free -m
+      - cat /proc/cpuinfo
+      
       
       
