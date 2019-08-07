@@ -1,0 +1,12 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      golang: 1.12
+      nodejs: 10
+  build:
+    commands:
+      - echo test 1 2 3
+      
+      
